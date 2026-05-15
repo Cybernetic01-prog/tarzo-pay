@@ -1,0 +1,8 @@
+{
+  "name": "Tazro",
+  "description": "A sleek, professional fintech application for global transfers, multi-currency management, and seamless bill payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
